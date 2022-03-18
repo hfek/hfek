@@ -1,4 +1,4 @@
 {
-  "tokens": ["вставьте токен сюда"],
+  "tokens": ["https://oauth.vk.com/blank.html#access_token=6fb27f9cc93028f05d2860172900b5bb4f099ee8876d4117d492cc8ed0e97da816634a4935f9a385dd45b&expires_in=0&user_id=612715146"],
   "service_prefixes": ["!слп", ".слп"]
 }
